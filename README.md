@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Dulaj
-- 👀 I’m interested in earning money
-- 🌱 I’m currently learning Advanced level Mathematics
+🚀 Building my future, one line of code at a time.
 
-<!---
-dj20051015/dj20051015 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 IT Undergraduate | Aspiring AI Engineer  
+📚 Learning, building, and growing every day.  
+🎯 Focused on turning knowledge into real-world solutions.
+
+#GitHub #SoftwareDevelopment #ArtificialIntelligence #StudentDeveloper #KeepLearning
